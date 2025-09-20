@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
         </div>
 
         {/* Built with Bolt */}
-        <div className="border-t border-gray-700 mt-6 pt-6 text-center">
+{/*         <div className="border-t border-gray-700 mt-6 pt-6 text-center">
           <div className="inline-flex items-center space-x-2 bg-gray-800 px-4 py-2 rounded-lg border border-gray-600">
             <span className="text-gray-400 text-sm">Built with</span>
             <a 
@@ -98,7 +98,7 @@ const Footer: React.FC = () => {
               ⚡ Bolt
             </a>
           </div>
-        </div>
+        </div> */}
 
         {/* Disclaimer */}
         <div className="mt-6 p-4 bg-amber-500/10 border border-amber-500/20 rounded-lg">
