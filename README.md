@@ -11,7 +11,7 @@ Nirogya is a comprehensive, real-time healthcare platform designed to empower us
 ## Installation/Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/nirogya.git
+   git clone https://github.com/Anushka0053/Nirogya.git
    ```
 2. **Navigate to the project directory:**
    ```bash
